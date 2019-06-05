@@ -1,0 +1,73 @@
+input{
+	border-radius: 5px;
+	width: 100px
+}
+p{
+	margin-top: 5px;
+	text-align: center;
+	color: white
+}
+h3{
+	text-align: center;
+}
+.glavar1{
+ height: 50px;
+ background: black
+}
+.glavar2{
+ height: 300px;
+}
+.glavar3{
+ height: 250px;
+ margin-top: 140px
+}
+.melk1{
+	height: 25px;
+	width: 70px;
+	margin-left: 25px;
+	margin-top: 10px
+}
+.melk2{
+	height: 25px;
+	width: 70px;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+.melk3{
+	height: 25px;
+	width: 70px;
+	margin-left: 25px;
+	margin-top: 10px
+}
+.melk4{
+	height: 25px;
+	width: 70px;
+	margin-left: 25px;
+	margin-top: 10px
+}
+.melk5{
+	height: 25px;
+	width: 70px;
+	margin-left: 25px;
+	margin-top: 10px
+}
+.display{
+	display: flex;
+}
+.block1{
+	background: red;
+	height: 250px;
+	width: 500px;
+    margin-left: 80px;
+    margin-top: 20px
+}
+.block2{
+	background: red;
+	height: 250px;
+	width: 500px;
+    margin-left: 200px;
+     margin-top: 20px
+}
+.p2{
+	color: black
+}
